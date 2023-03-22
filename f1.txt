@@ -5,3 +5,5 @@ feature01에서 새로운 기능추가
 release01에서 테스트 코드 수정
 
 hotfix 01
+
+feature02에서 새로운 기능추가
